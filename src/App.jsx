@@ -8,6 +8,8 @@ import Copy from './components/Copy.jsx'
 import Broadside from './components/BroadSide.jsx'
 import Start from './components/Start.jsx'
 import Team from './components/Team.jsx'
+import ReconnectSection from './components/ReconnectSection.jsx'
+import Partners from './components/Partners.jsx'
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
     <Broadside/>
     <Start/>
     <Team/>
+    <ReconnectSection/>
+    <Partners/>
     </>
   )
 }
