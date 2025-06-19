@@ -2,7 +2,7 @@ import React from "react";
 
 const Ready = () => {
   return (
-    <div className="py-10 flex justify-center items-center bg-[url('src/assets/images/yellow.png')] bg-cover bg-center">
+    <div className="py-10 flex justify-center items-center bg-[url('../assets/images/yellow.png')] bg-cover bg-center">
       <div className="  p-6 w-full max-w-3xl">
         <h2 className="text-black text-xl font-bold mb-10">Are you ready?</h2>
         <div className="flex flex-col md:flex-row items-center gap-4">

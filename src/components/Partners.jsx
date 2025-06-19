@@ -61,7 +61,7 @@ const Partners = () => {
             <br /> Klein & Selz PC
           </p>
         </div>
-        <img src={footer} alt="Footer Logo" className="max-w-5xl mb-[-49px] items-center" />
+        <img src={footer} alt="Footer Logo" className="max-w-5xl mb-[-49px]" />
       </div>
     </section>
   );
