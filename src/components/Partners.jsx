@@ -2,7 +2,7 @@ import React from "react";
 import dazzle from "../assets/images/dazzleshap.png";
 import nervous from "../assets/images/nervous.png";
 import fkks from "../assets/images/fkks.png";
-import footer from "../assets/images/footer.png"
+import footer from "../assets/images/footer.png";
 
 const Partners = () => {
   return (
@@ -48,7 +48,7 @@ const Partners = () => {
           <img
             src={fkks}
             alt="FKKS Logo"
-            className="mx-auto w-50  h-auto mb-2"
+            className="mx-auto w-50  h-auto mb-1"
           />
           <h3 className="font-bold text-lg mt-25 ">FKKS</h3>
           <p className="text-sm text-gray-700 mt-2">
@@ -59,11 +59,7 @@ const Partners = () => {
             <br /> Klein & Selz PC
           </p>
         </div>
-         <img
-            src={footer}
-            alt="Footer Logo"
-            className="max-w-6xl mb-[-49px] "
-          />
+        <img src={footer} alt="Footer Logo" className="max-w-5xl mb-[-49px]" />
       </div>
     </section>
   );

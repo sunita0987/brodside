@@ -1,7 +1,7 @@
 import React from "react";
 import cc0Icon from "../assets/images/cc.png";
 
-const Broadside = () => {
+const BroadSide = () => {
   return (
     <div className="bg-[#999999] p-6 md:p-12 text-gray-900 font-sans">
       <h2 className=" text-5xl">
@@ -52,5 +52,5 @@ const Broadside = () => {
     </div>
   );
 };
+export default BroadSide;
 
-export default Broadside;

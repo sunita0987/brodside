@@ -25,5 +25,4 @@ const Ready = () => {
     </div>
   );
 };
-
 export default Ready;

@@ -7,7 +7,6 @@ const ReconnectSection = () => {
       <div className="flex justify-center mb-6">
         <img src={skullIcon} alt="Skull Icon" className="w-12 h-12" />
       </div>
-
       <p className="max-w-3xl mx-auto text-xl text-gray-800 font-medium leading-relaxed">
         <strong>Charlie, Vector</strong> and{" "}
         <strong>Matt reconnected on Broadside</strong> because <br /> they saw a
@@ -24,5 +23,4 @@ const ReconnectSection = () => {
     </section>
   );
 };
-
 export default ReconnectSection;

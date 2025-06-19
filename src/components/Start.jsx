@@ -1,13 +1,12 @@
 import React from "react";
 import phase1 from "../assets/images/phase1.png";
 import phase2 from "../assets/images/phase2.png";
-// import phase3 from "../assets/images/phase3.png";
 import phase4 from "../assets/images/phase4.png";
 
 const Start = () => {
   return (
     <section className="bg-white py-10 px-4 md:px-16 text-gray-800 font-sans">
-      <h2 className="text-5xl md:text-3xl font-bold mb-6">
+      <h2 className="text-3xl md:text-3xl font-bold mb-6">
         -Starting with <span className="text-black">Storytelling...</span>
       </h2>
       <div className="grid md:grid-cols-2">
@@ -17,7 +16,7 @@ const Start = () => {
           <h3 className="font-bold text-lg mb-2">
             Broadside is set in a new <br /> Solar Punk storyworld
           </h3>
-          <p className="text-sm md:text-base text-gray-700">
+          <p className="text-sm md:text-base text-gray-700 text-regular">
             Decentralized from the start with lots of room <br /> to explore
             both for the creators
             <br /> and the community.
@@ -32,5 +31,4 @@ const Start = () => {
     </section>
   );
 };
-
 export default Start;

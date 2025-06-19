@@ -11,15 +11,28 @@ const Header = () => {
         alt="Broads1de Heroes"
         className="absolute  w-full h-full object-cover  "
       />
+      <div className="absolute inset-0 flex items-center justify-center">
+        <p className="text-2xl font-light text-center max-w-2xl mx-auto px-4 opacity-50 ml-20 mt-10">
+          WELC0ME T0 BR0ADSIDE...
+          <br /> ACCEPT! REJECT!
+          <br />
+          <br />
+          <br />
+          C0NNECTING WALLETS. <br />
+          ESTABLISHING PERIMETER.
+          <br /> RENDERING ARM0R.
+          <br /> ACTIVATING MAP CAMS. <br />
+          CALIBRATING HAPTICS.
+          <br /> RENDERING MAP
+        </p>
+      </div>
       <div className="relative z-10 text-center  px-6 ">
         <img
           src={topImage}
           alt="Broads1de Logo"
           className=" w-full h-full mb-80"
         />
-        <img src={icon}
-         alt="Icon" 
-         className="w-20 h-20 mx-auto " />
+        <img src={icon} alt="Icon" className="w-20 h-20 mx-auto " />
         <p className="text-5xl font-bold max-w-2xl mx-auto font-[Neue Machina]">
           A DECENTRALIZED TALE OF <br />
           5,454 ANONYMOUS HEROES
@@ -28,5 +41,4 @@ const Header = () => {
     </section>
   );
 };
-
 export default Header;

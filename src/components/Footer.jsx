@@ -9,7 +9,6 @@ const Footer = () => {
           placeholder="broadsider@email.com"
           className="w-[550px] md:flex-1 px-4 py-3 rounded text-[#070004] text-lg border bg-white"
         />
-
         <button className="bg-[#FFF173] text-black px-5 py-3 rounded shadow-md font-regular text-2xl hover:bg-yellow-300  cursor-pointer">
           NOTIFY ME
         </button>
@@ -36,5 +35,4 @@ const Footer = () => {
     </div>
   );
 };
-
 export default Footer;
