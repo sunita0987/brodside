@@ -20,7 +20,7 @@ const Header = () => {
         <img src={icon}
          alt="Icon" 
          className="w-20 h-20 mx-auto " />
-        <p className="text-3xl font-extrabold max-w-2xl mx-auto font-[Neue Machina]">
+        <p className="text-5xl font-bold max-w-2xl mx-auto font-[Neue Machina]">
           A DECENTRALIZED TALE OF <br />
           5,454 ANONYMOUS HEROES
         </p>

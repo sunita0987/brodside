@@ -8,7 +8,7 @@ const ReconnectSection = () => {
         <img src={skullIcon} alt="Skull Icon" className="w-12 h-12" />
       </div>
 
-      <p className="max-w-3xl mx-auto text-lg text-gray-800 font-medium leading-relaxed">
+      <p className="max-w-3xl mx-auto text-xl text-gray-800 font-medium leading-relaxed">
         <strong>Charlie, Vector</strong> and{" "}
         <strong>Matt reconnected on Broadside</strong> because <br /> they saw a
         way to combine all they have learned into a <br /> decentralized

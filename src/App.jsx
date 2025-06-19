@@ -10,7 +10,7 @@ import Start from './components/Start.jsx'
 import Team from './components/Team.jsx'
 import ReconnectSection from './components/ReconnectSection.jsx'
 import Partners from './components/Partners.jsx'
-
+import Footer from './components/Footer.jsx'
 function App() {
 
   return (
@@ -24,6 +24,7 @@ function App() {
     <Team/>
     <ReconnectSection/>
     <Partners/>
+    <Footer/>
     </>
   )
 }

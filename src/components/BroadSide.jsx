@@ -16,7 +16,7 @@ const Broadside = () => {
             alt="CC0 Icon"
             className="w-80 h-50 object-contain"
           />
-          <p className="text-sm md:text-base line-height-6">
+          <p className="text-xl md:text-base line-height-6">
             <span className="font-bold">1.</span> All Broadsiders featuring
             existing<br/> cc0 artwork from other collections <br/> and artists are cc0.
             Meaning you <br/> and anyone else can continue <br/> telling their story in any
