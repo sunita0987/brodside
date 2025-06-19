@@ -16,7 +16,7 @@ const Partners = () => {
             className="mx-auto w-30 h-30 mb-4"
           />
           <h3 className="font-bold text-lg ">DAZZLE SHIP...</h3>
-          <p className=" text-gray-700 mt-2">
+          <p className=" text-gray-700 mt-2 ff-courier new">
             - Creative Production Studio
             <br />
             <br />

@@ -2,16 +2,16 @@ import React from "react";
 
 const Ready = () => {
   return (
-    <div className="py-10 flex justify-center items-center bg-[url('../assets/images/yellow.png')] bg-cover bg-center">
+    <div className="py-10 flex justify-center items-center bg-[url('src/assets/images/yellow.png')] bg-cover bg-center">
       <div className="  p-6 w-full max-w-3xl">
-        <h2 className="text-black text-xl font-bold mb-10">Are you ready?</h2>
+        <h2 className="text-black text-xl font-bold mb-10 ff-Neue Machina">Are you ready?</h2>
         <div className="flex flex-col md:flex-row items-center gap-4">
           <input
             type="email"
             placeholder="broadsider@email.com"
-            className="w-full md:flex-1 px-4 py-3 rounded text-black text-lg border bg-white"
+            className="w-full md:flex-1 px-4 py-3 rounded text-black text-lg border bg-white ff-Neue Machina"
           />
-          <button className="bg-[#7BFFCC] hover:bg-teal-400 px-10 py-3 font-bold rounded text-black tracking-wide border-3 cursor-pointer">
+          <button className="bg-[#7BFFCC] hover:bg-teal-400 px-10 py-3 font-bold rounded text-black tracking-wide border-3 cursor-pointer ff-Neue Machina text-xl">
             NOTIFY ME
           </button>
         </div>

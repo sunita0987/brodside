@@ -6,7 +6,7 @@ import phase4 from "../assets/images/phase4.png";
 const Start = () => {
   return (
     <section className="bg-white py-10 px-4 md:px-16 text-gray-800 font-sans">
-      <h2 className="text-5xl md:text-3xl font-bold mb-6 font-Neue Machina">
+      <h2 className="text-5xl md:text-3xl font-bold mb-6 ff-Neue Machina max-w-[1320px] lg:py-20">
         -Starting with <span className="text-black">Storytelling...</span>
       </h2>
       <div className="grid md:grid-cols-2">

@@ -14,7 +14,7 @@ const Team = () => {
               className="w-28 h-28 md:w-32 md:h-32 object-cover rounded-full mx-auto mb-4"
             />
             <h3 className="font-bold text-center text-base">{member.name}</h3>
-            <p className="text-black whitespace-pre-line text-justify ml-20">
+            <p className="text-black whitespace-pre-line text-justify ml-20 ff-courier">
               {member.description}
             </p>
           </div>

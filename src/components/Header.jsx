@@ -12,7 +12,7 @@ const Header = () => {
         className="absolute  w-full h-full object-cover  "
       />
       <div className="absolute inset-0 flex items-center justify-center">
-        <p className="text-2xl font-light text-center max-w-2xl mx-auto px-4 opacity-50 ml-20 mt-10">
+        <p className="text-2xl font-light text-center max-w-2xl mx-auto px-4 opacity-50 ml-20 mt-10 ff-Neue Machina">
           WELC0ME T0 BR0ADSIDE...
           <br /> ACCEPT! REJECT!
           <br />
@@ -33,7 +33,7 @@ const Header = () => {
           className=" w-full h-full mb-80"
         />
         <img src={icon} alt="Icon" className="w-20 h-20 mx-auto " />
-        <p className="text-5xl font-bold max-w-2xl mx-auto font-[Neue Machina]">
+        <p className="text-4xl font-bold max-w-2xl mx-auto ff-Neue Machina">
           A DECENTRALIZED TALE OF <br />
           5,454 ANONYMOUS HEROES
         </p>

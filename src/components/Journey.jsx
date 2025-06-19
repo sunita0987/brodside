@@ -6,7 +6,7 @@ import journey3 from "../assets/images/3rdimage.png";
 const Journey = () => {
   return (
     <section className="bg-white px-4">
-      <h2 className="text-7xl font-bold text-black mb-10 mt-10">
+      <h2 className="text-6xl font-bold text-black mb-10 mt-10 ">
         - The Journey Ahead...
       </h2>
       <div className="grid md:grid-cols-3">
@@ -16,7 +16,7 @@ const Journey = () => {
             alt="Broadsiders"
             className="mb-4 w-full rounded"
           />
-          <h3 className="text-lg ml-10">
+          <h3 className="text-lg ml-10 ff-Neue Machina">
             <span className="font-bold">5,454</span> generative <br />
             Broadsider heroes.
             <br />
