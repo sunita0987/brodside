@@ -4,7 +4,7 @@ import { teamMembers } from "../utils/teamMembers";
 const Team = () => {
   return (
     <section className="bg-white py-12 px-4 md:px-16 text-gray-900">
-      <h2 className="text-5xl  font-bold mb-10">- The Team...</h2>
+      <h2 className="text-5xl font-semibold mb-10">- The Team...</h2>
       <div className="grid md:grid-cols-3 gap-10">
         {teamMembers.map((member, index) => (
           <div key={index} className="text-sm">
