@@ -22,8 +22,10 @@ const Partners = () => {
             <br />
             Working across fashion,
             <br /> gaming, music & tech. <br />
-            Previous clients include: The <br /> James Bond Franchise, <br />{" "}
-            Activision, Microsoft and <br /> Drone Racing League.
+            Previous clients include: The <br />
+             James Bond Franchise, <br />
+            Activision, Microsoft and <br /> 
+            Drone Racing League.
           </p>
         </div>
         <div>
@@ -55,11 +57,11 @@ const Partners = () => {
             - IP Rights / Terms
             <br />
             <br />
-            Jeremy Goldman <br /> and Zach Lewis <br /> @ Frankfurt Kurnit{" "}
+            Jeremy Goldman <br /> and Zach Lewis <br /> @ Frankfurt Kurnit
             <br /> Klein & Selz PC
           </p>
         </div>
-        <img src={footer} alt="Footer Logo" className="max-w-5xl mb-[-49px]" />
+        <img src={footer} alt="Footer Logo" className="max-w-5xl mb-[-49px] items-center" />
       </div>
     </section>
   );

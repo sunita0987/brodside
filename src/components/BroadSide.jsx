@@ -23,8 +23,7 @@ const BroadSide = () => {
             existing
             <br /> cc0 artwork from other collections <br /> and artists are
             cc0. Meaning you <br /> and anyone else can continue <br /> telling
-            their story in any way
-            <br /> you like, on any platform you wish.
+            their story in any way you <br/>  like, on any platform you wish.
           </p>
         </div>
         <div className="flex flex-col items-start space-y-4">
