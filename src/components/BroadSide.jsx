@@ -5,7 +5,7 @@ const BroadSide = () => {
   return (
     <div className="bg-[#999999] p-6 md:p-12 text-gray-900 font-sans">
       <h2 className=" text-5xl">
-        <span className="font-bold">- Broadside Avatars</span> offer
+        <span className="font-bold ff-Neue Machina">- Broadside Avatars</span> offer
         <br /> <span className="font-bold">two </span>
         <span className="font-normal">
           Broadsidedifferent licensing models:
@@ -18,7 +18,7 @@ const BroadSide = () => {
             alt="CC0 Icon"
             className="w-80 h-50 object-contain"
           />
-          <p className="text-xl md:text-base line-height-6">
+          <p className="text-xl md:text-base line-height-6 ff-courier New">
             <span className="font-bold">1.</span> All Broadsiders featuring
             existing
             <br /> cc0 artwork from other collections <br /> and artists are
@@ -32,7 +32,7 @@ const BroadSide = () => {
             Commercial <br />
             Rights
           </h3>
-          <p className="text-xl md:text-base">
+          <p className="text-xl md:text-base ff-courier New">
             <span className="font-bold">2.</span> Broadsiders without cc0 traits
             <br />
             grant the holder full commercial

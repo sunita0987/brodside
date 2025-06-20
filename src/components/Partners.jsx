@@ -7,7 +7,7 @@ import footer from "../assets/images/footer.png";
 const Partners = () => {
   return (
     <section className="bg-white py-12 px-6 text-center">
-      <h2 className="text-3xl  font-bold mr-200 mb-10">-Partners</h2>
+      <h2 className="text-4xl  font-bold mr-200 mb-10">-Partners</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
         <div>
           <img
@@ -15,7 +15,7 @@ const Partners = () => {
             alt="Dazzle Ship Logo"
             className="mx-auto w-30 h-30 mb-4"
           />
-          <h3 className="font-bold text-lg ">DAZZLE SHIP...</h3>
+          <h3 className="font-bold text-lg ff-Neue Machina">DAZZLE SHIP...</h3>
           <p className=" text-gray-700 mt-2 ff-courier new">
             - Creative Production Studio
             <br />
@@ -34,8 +34,8 @@ const Partners = () => {
             alt="Nervous Logo"
             className="mx-auto w-30 h-30 mb-4"
           />
-          <h3 className="font-bold text-lg">Nervous</h3>
-          <p className="text-sm text-gray-700 mt-2">
+          <h3 className="font-bold text-lg ff-Neue Machina">Nervous</h3>
+          <p className="text-sm text-gray-700 mt-2 ff-courier new">
             - Web3 Dev Team
             <br />
             <br />
@@ -52,8 +52,8 @@ const Partners = () => {
             alt="FKKS Logo"
             className="mx-auto w-50  h-auto mb-1"
           />
-          <h3 className="font-bold text-lg mt-25 ">FKKS</h3>
-          <p className="text-sm text-gray-700 mt-2">
+          <h3 className="font-bold text-lg mt-25 ff-Neue Machina">FKKS</h3>
+          <p className="text-sm text-gray-700 mt-2 ff-courier new">
             - IP Rights / Terms
             <br />
             <br />
