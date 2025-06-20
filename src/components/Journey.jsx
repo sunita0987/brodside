@@ -16,9 +16,10 @@ const Journey = () => {
             alt="Broadsiders"
             className="mb-4 w-full rounded"
           />
-          <h3 className="text-lg ml-10 ff-Neue Machina">
-            <span className="font-bold">5,454</span> generative <br />
-            Broadsider heroes.
+          <h3 className="text-lg ml-10">
+            <span className="font-bold ">5,454</span> 
+            <span className=" font-light text-black">generative <br />
+            Broadsider heroes.</span>
             <br />
             <br />
           </h3>
@@ -33,9 +34,10 @@ const Journey = () => {
         </div>
         <div>
           <img src={journey2} alt="NFT Story" className="mb-4 w-full rounded" />
-          <h3 className="text-lg  text-black ml-10">
-            <span className="font-bold">11 Episodic NFTs</span> telling <br />
-            the story of your specific <br /> character
+          <h3 className="text-lg  ml-10">
+            <span className="font-light text-black">11 Episodic NFTs</span> 
+            <span className="font-light text-black">telling <br />
+            the story of your specific <br /> character</span>
             <br />
             <br />
           </h3>
@@ -48,8 +50,10 @@ const Journey = () => {
         <div>
           <img src={journey3} alt="Book NFT" className="mb-4 w-full rounded" />
           <h3 className="text-lg  ml-10">
-            <span className="font-bold">Month 6:</span> Merge and
+            <span className="font-bold">Month 6:</span> 
+            <span className="font-light">Merge and
             <br /> burn Episode NFTs into <br /> a 1/1 full book NFT.
+            </span>
             <br />
             <br />
           </h3>

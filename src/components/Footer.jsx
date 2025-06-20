@@ -7,9 +7,9 @@ const Footer = () => {
         <input
           type="email"
           placeholder="broadsider@email.com"
-          className="w-[550px] md:flex-1 px-4 py-3 rounded text-lg text-black bg-white"
+          className="w-[550px] md:flex-1 px-4 py-3 rounded text-lg text-black bg-white ff-Neue Machina font-light"
         />
-        <button className="bg-[#FFF173] text-black px-5 py-3 rounded shadow-md font-regular text-2xl hover:bg-yellow-300  cursor-pointer">
+        <button className="bg-[#FFF173] text-black px-5 py-3 rounded shadow-md font-light text-2xl hover:bg-yellow-300  cursor-pointer ff-Neue Machina">
           NOTIFY ME
         </button>
       </div>
@@ -21,7 +21,7 @@ const Footer = () => {
           NONE OF THEM ARE AS STRONG AS ALL OF US
         </p>
       </div>
-      <div className="flex gap-4 text-xl underline font-regular">
+      <div className="flex gap-4 text-xl underline  ff-Neue Machina">
         <a href="#" className="hover:text-yellow-300">
           LEGAL -
         </a>

@@ -4,9 +4,9 @@ import cc0Icon from "../assets/images/cc.png";
 const BroadSide = () => {
   return (
     <div className="bg-[#999999] p-6 md:p-12 text-gray-900 font-sans">
-      <h2 className=" text-5xl">
-        <span className="font-bold ff-Neue Machina">- Broadside Avatars</span> offer
-        <br /> <span className="font-bold">two </span>
+      <h2 className=" text-4xl ff-Neue Machina">
+        <span className="font-bold ">- Broadside Avatars</span> offer
+        <br /> <span className="font-bold ">two </span>
         <span className="font-normal">
           Broadsidedifferent licensing models:
         </span>

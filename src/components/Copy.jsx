@@ -38,7 +38,7 @@ const Copy = () => {
           <li>
             <span>Robness</span>, <span>Max Osiris</span>
           </li>
-          <li className="font-normal text-gray-600">and more.</li>
+          <li className="font-light text-gray-600 ff-Neue Machina">and more.</li>
         </ul>
       </div>
     </div>

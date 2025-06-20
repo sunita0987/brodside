@@ -7,13 +7,13 @@ const ReconnectSection = () => {
       <div className="flex justify-center mb-6">
         <img src={skullIcon} alt="Skull Icon" className="w-12 h-12" />
       </div>
-      <p className="max-w-3xl mx-auto text-xl text-gray-800  leading-relaxed ff-Neue Machina">
+      <p className="max-w-3xl mx-auto text-xl text-gray-800  leading-relaxed">
         <strong>Charlie, Vector</strong> and
         <strong>  Matt reconnected on Broadside</strong> because <br /> they saw a
         way to combine all they have learned into a <br /> decentralized
         franchise powered by NFTs that they believe can
         <br />
-        <strong className="font-bold ff-Neue Machina">
+        <strong className="font-bold">
           help people understand and participate in the real and rapidly <br />
           decentralizing world taking shape around us
         </strong>
